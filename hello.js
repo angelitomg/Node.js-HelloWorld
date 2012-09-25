@@ -1,6 +1,6 @@
 
 /**
- * node.js Hello World
+ * Node.js Hello World
  *
  * Angelito M. Goulart
  *
@@ -8,7 +8,7 @@
  *
  */
 
-// Require http modulo
+// Require http module
 var http = require('http');
 
 // Create the http server
