@@ -1,4 +1,4 @@
-NodeJS Hello World
+Node.js Hello World
 ==============
 
-A simple hello world example written using node.js
+A simple hello world example written using Node.js.
